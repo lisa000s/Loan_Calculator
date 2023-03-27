@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    i = 1
+    num = 20
+    while i > num:
+        print(i)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6540#comment
+status: Solved
+record: -1
+submission_language: python3
